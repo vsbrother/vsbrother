@@ -26,6 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__vs_brother__" target="blank"><img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"></a>
-<a href="https://www.youtube.com/c/vsbrotherlk" target="blank"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"></a>
+<a href="https://www.youtube.com/vsbrotherlk" target="blank"><img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"></a>
 <a href="https://linkedin.com/in/vidunasandanithawijayapala" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
 </p>
