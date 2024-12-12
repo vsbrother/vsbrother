@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Ardiuno**
+- 💬 Ask me about **Arduino**
 
 - 📫 How to reach me **vidunasandanitha@gmail.com**
 
